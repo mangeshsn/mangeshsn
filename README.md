@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="https://twitter.com/mangeshsn">
+  <img align="left" alt="Mangesh Narkhede | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/mangeshnarkhede/">
+  <img align="left" alt="Mangesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <!--
 **mangeshsn/mangeshsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
