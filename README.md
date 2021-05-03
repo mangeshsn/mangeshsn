@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Group 14 (1)](https://user-images.githubusercontent.com/679831/116864950-52a1c400-ac26-11eb-88f9-be436af14e4c.png)
+
 <a href="https://twitter.com/mangeshsn">
   <img align="left" alt="Mangesh Narkhede | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
