@@ -28,7 +28,8 @@
 ![html5-original 1](https://user-images.githubusercontent.com/679831/116860006-8678eb80-ac1e-11eb-9c70-720a0aa4befe.png)
 ![css3-original 1](https://user-images.githubusercontent.com/679831/116860012-87aa1880-ac1e-11eb-9164-05f22da3ab5f.png)
 
-
+## ⚡ GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangeshsn&layout=compact&count_private=true&theme=gruvbox" />
 
 <!--
 **mangeshsn/mangeshsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
