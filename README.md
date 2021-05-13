@@ -15,7 +15,7 @@
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
-## **Languages and Tools:**  
+## **Languages, Frameworks and Tools:**  
 
 <!-- icons from https://devicon.dev/ -->
 
