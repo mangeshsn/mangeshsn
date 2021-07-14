@@ -6,10 +6,10 @@
 <a href="https://twitter.com/mangeshsn">
   <img align="left" alt="Mangesh Narkhede | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-
+<!-- 
 <a href="https://www.linkedin.com/in/mangeshnarkhede/">
   <img align="left" alt="Mangesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mangeshsn.mangeshsn)
 
