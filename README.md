@@ -1,30 +1,44 @@
-<h1 align="center">Hi there, I'm Mangesh 👋</h1>
+<h1 align="center">Hi there, I'm Mangesh Narkhede 👋</h1>
 
 <p align="center">
   <a href="https://github.com/mangeshsn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+11%2B+years+shipping+code;Java+%E2%80%A2+JavaScript+%E2%80%A2+Python;Building+robust+systems+for+high-volume+businesses" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=640&lines=Backend+Engineer+%7C+11%2B+years+shipping+code;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;Consultant+%40+Worldline+%2F+Magellan" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/mangeshnarkhede/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/mangeshsn"><img src="https://img.shields.io/badge/@mangeshsn-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
   <img src="https://komarev.com/ghpvc/?username=mangeshsn&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
 </p>
 
 ## 🧑‍💻 About me
 
-- ⚙️ Energetic engineer with **11+ years** building robust code for high-volume businesses
-- 🤝 Enthusiastic team player and deep creative thinker
-- 📍 Nashik · Mumbai · Pune, India
+- ⚙️ Backend engineer with **11+ years** building Java & Spring systems for high-volume businesses
+- 🏦 Domains: payments & credit cards, automotive, fleet management, energy, marketing platforms
+- 🧩 Turned monoliths into microservices, built rule engines and ETL pipelines
+- 🏆 Winner, Capgemini Automation Challenge (2017)
+- 📍 Pune, India
+
+## 💼 Experience
+
+| When | Where | What I worked on |
+|---|---|---|
+| 2024 – now | **Worldline / Magellan** · Consultant | Tobacco Products Directive platform backend; Smart Push mass email & SMS marketing |
+| 2021 – 2024 | **Coforge** · Technical Analyst | Credit card APIs for Santander; migrated a monolith to microservices |
+| 2019 – 2021 | **Xpanxion** · Software Engineer | Fleet management (Rand McNally DriverConnect); ETL pipelines & Solr search APIs (Uplight) |
+| 2018 – 2019 | **Jade Global** · Software Engineer | Xenon, a cloud test-lifecycle platform for enterprise apps |
+| 2016 – 2018 | **Capgemini** · Associate Consultant | Mercedes order validation and a rule compiler for the global car market |
 
 ## 🛠️ Stack
 
 | | |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,js,python,html,css" alt="Java, JavaScript, Python, HTML, CSS" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=spring,react" alt="Spring, React / React Native" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,docker" alt="Git, Docker" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Java, JavaScript, HTML, CSS" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=spring" alt="Spring" /> Spring Boot · Spring REST · Spring Cloud · Lombok |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,cassandra" alt="MySQL, PostgreSQL, Cassandra" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,aws,gcp,jenkins,git,gitlab" alt="Docker, AWS, GCP, Jenkins, Git, GitLab" /> |
+| **Also** | ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
 ## 🔥 Activity
 
