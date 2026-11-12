@@ -17,18 +17,7 @@
 - ⚙️ Backend engineer with **11+ years** building Java & Spring systems for high-volume businesses
 - 🏦 Domains: payments & credit cards, automotive, fleet management, energy, marketing platforms
 - 🧩 Turned monoliths into microservices, built rule engines and ETL pipelines
-- 🏆 Winner, Capgemini Automation Challenge (2017)
 - 📍 Pune, India
-
-## 💼 Experience
-
-| When | Where | What I worked on |
-|---|---|---|
-| 2024 – now | **Worldline / Magellan** · Consultant | Tobacco Products Directive platform backend; Smart Push mass email & SMS marketing |
-| 2021 – 2024 | **Coforge** · Technical Analyst | Credit card APIs for Santander; migrated a monolith to microservices |
-| 2019 – 2021 | **Xpanxion** · Software Engineer | Fleet management (Rand McNally DriverConnect); ETL pipelines & Solr search APIs (Uplight) |
-| 2018 – 2019 | **Jade Global** · Software Engineer | Xenon, a cloud test-lifecycle platform for enterprise apps |
-| 2016 – 2018 | **Capgemini** · Associate Consultant | Mercedes order validation and a rule compiler for the global car market |
 
 ## 🛠️ Stack
 
