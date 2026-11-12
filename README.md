@@ -1,58 +1,49 @@
+<h1 align="center">Hi there, I'm Mangesh 👋</h1>
 
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/mangeshsn">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+7%2B+years+shipping+code;Java+%E2%80%A2+JavaScript+%E2%80%A2+Python;Building+robust+systems+for+high-volume+businesses" alt="Typing intro" />
+  </a>
+</p>
 
-![Group 14 (1)](https://user-images.githubusercontent.com/679831/116864950-52a1c400-ac26-11eb-88f9-be436af14e4c.png)
+<p align="center">
+  <a href="https://x.com/mangeshsn"><img src="https://img.shields.io/badge/@mangeshsn-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mangeshsn&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+</p>
 
-<a href="https://twitter.com/mangeshsn">
-  <img align="left" alt="Mangesh Narkhede | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<!-- 
-<a href="https://www.linkedin.com/in/mangeshnarkhede/">
-  <img align="left" alt="Mangesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
+![Banner](https://user-images.githubusercontent.com/679831/116864950-52a1c400-ac26-11eb-88f9-be436af14e4c.png)
 
-![](https://visitor-badge.glitch.me/badge?page_id=mangeshsn.mangeshsn)
+## 🧑‍💻 About me
 
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+- ⚙️ Energetic engineer with **7+ years** building robust code for high-volume businesses
+- 🤝 Enthusiastic team player and deep creative thinker
+- 📍 Nashik · Mumbai · Pune, India
 
-## Stack:
+## 🛠️ Stack
 
-#### Languages:  
-<!-- icons from https://devicon.dev/ -->
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,js,python,html,css" alt="Java, JavaScript, Python, HTML, CSS" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=spring,react" alt="Spring, React / React Native" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,docker" alt="Git, Docker" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> |
 
-![java-original 1 (3)](https://user-images.githubusercontent.com/679831/116859599-dc00c880-ac1d-11eb-88d2-aa09fa41d672.png)
-![javascript-original 1](https://user-images.githubusercontent.com/679831/116859612-e02ce600-ac1d-11eb-8a26-fe245bb94cf9.png)
-![html5-original 1](https://user-images.githubusercontent.com/679831/116860006-8678eb80-ac1e-11eb-9c70-720a0aa4befe.png)
-![css3-original 1](https://user-images.githubusercontent.com/679831/116860012-87aa1880-ac1e-11eb-9164-05f22da3ab5f.png)
+## 📌 Projects
 
-#### **Frameworks:**
-![spring-original 1 (1)](https://user-images.githubusercontent.com/679831/116859601-ddca8c00-ac1d-11eb-958f-08df431acd25.png)
-![spring-boot-project-logo 1 (1)](https://user-images.githubusercontent.com/679831/118612156-1ef49b80-b7db-11eb-8c13-4b3a5c9b9d44.png)
+| Project | What it is |
+|---|---|
+| [🍅 tomato-react-native](https://github.com/mangeshsn/tomato-react-native) | Food ordering app built with React Native |
+| [📱 awesome-react-native-project](https://github.com/mangeshsn/awesome-react-native-project) | React Native exploration playground |
 
-#### **Tools:**  
-![git-original 1](https://user-images.githubusercontent.com/679831/116859859-4a458b00-ac1e-11eb-9286-ffedc8b0eea2.png)
-![docker-original 1](https://user-images.githubusercontent.com/679831/116859672-fe92e180-ac1d-11eb-9036-b46e80fafd2d.png)
+## 🔥 Activity
 
-#### **Databases:**
-![mysql-original 1](https://user-images.githubusercontent.com/679831/116859608-defbb900-ac1d-11eb-96c4-3fce1e9c8888.png)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mangeshsn&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub streak" />
+</p>
 
-## ⚡ GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangeshsn" />
-
-<!--
-**mangeshsn/mangeshsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mangeshsn/mangeshsn/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/mangeshsn/mangeshsn/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
