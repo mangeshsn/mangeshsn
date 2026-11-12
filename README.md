@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mangeshsn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+7%2B+years+shipping+code;Java+%E2%80%A2+JavaScript+%E2%80%A2+Python;Building+robust+systems+for+high-volume+businesses" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+11%2B+years+shipping+code;Java+%E2%80%A2+JavaScript+%E2%80%A2+Python;Building+robust+systems+for+high-volume+businesses" alt="Typing intro" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About me
 
-- ⚙️ Energetic engineer with **7+ years** building robust code for high-volume businesses
+- ⚙️ Energetic engineer with **11+ years** building robust code for high-volume businesses
 - 🤝 Enthusiastic team player and deep creative thinker
 - 📍 Nashik · Mumbai · Pune, India
 
@@ -27,13 +27,6 @@
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=spring,react" alt="Spring, React / React Native" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,docker" alt="Git, Docker" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> |
-
-## 📌 Projects
-
-| Project | What it is |
-|---|---|
-| [🍅 tomato-react-native](https://github.com/mangeshsn/tomato-react-native) | Food ordering app built with React Native |
-| [📱 awesome-react-native-project](https://github.com/mangeshsn/awesome-react-native-project) | React Native exploration playground |
 
 ## 🔥 Activity
 
