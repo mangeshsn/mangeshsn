@@ -11,8 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=mangeshsn&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
 </p>
 
-![Banner](https://user-images.githubusercontent.com/679831/116864950-52a1c400-ac26-11eb-88f9-be436af14e4c.png)
-
 ## 🧑‍💻 About me
 
 - ⚙️ Energetic engineer with **11+ years** building robust code for high-volume businesses
